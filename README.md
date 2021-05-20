@@ -13,4 +13,6 @@ Details
 * Section 8 - find the prime numbers within an array + calculaton on a 2D array about the amount of rainfall in years
 * Section 9 - using functions + Tic Tac Toe implementation
 * Section 10 - operation on C strings + bubble sort of 2D array of strings
-* Section 12 - pointers basics + length calculation of a C string with pointer arithmetic 
+* Section 12 - pointers basics + length calculation of a C string with pointer arithmetic
+* Section 13 - structures + poiter to structure with heap allocation memory
+* 
