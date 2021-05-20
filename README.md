@@ -15,4 +15,7 @@ Details
 * Section 10 - operation on C strings + bubble sort of 2D array of strings
 * Section 12 - pointers basics + length calculation of a C string with pointer arithmetic
 * Section 13 - structures + poiter to structure with heap allocation memory
-* 
+* Section 14 - reading all caracters of a file + convert a file to upper case and rename it + read a file in reverse mode with fseek and ftell
+
+End
+============
